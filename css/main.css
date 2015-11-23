@@ -1,0 +1,59 @@
+body{
+	background-image: url('green_dust_scratch.png');
+	background-repeat: repeat;
+	font-family: 'Montserrat', sans-serif;
+}
+table{
+	margin:auto;
+}
+#image{
+	width: 200px;
+	height: 200px;
+}
+
+.well{
+	width: 75px;
+
+}
+#price{
+	margin-right: 20px;
+	padding: 10px;
+}
+.top{
+	float:right;
+	margin-left: 10px;
+	margin-right: 20px;
+	width: auto;
+	height: auto;
+}
+#content{
+	padding:50px;
+}
+#wrapper{
+	background-color: #fff;
+	
+}
+.tag{
+	font-size: 15px;
+}
+
+.header-name{
+	font-size: 40px;
+    font-weight: 600;
+    margin-top: 10px;
+    color: #019875;
+    padding: 15px;
+}
+.apiHits .header-name{
+	display:inline;
+}
+#header{
+	background-color: #C8C8A9;
+	height: auto;
+	
+}
+#logo{
+	width: 90px;
+	height: auto;
+	padding: 5px;
+}
