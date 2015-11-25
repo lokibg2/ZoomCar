@@ -39,10 +39,10 @@ table{
 
 .header-name{
 	font-size: 40px;
-    font-weight: 600;
-    margin-top: 10px;
-    color: #019875;
-    padding: 15px;
+	font-weight: 600;
+	margin-top: 10px;
+	color: #019875;
+	padding: 15px;
 }
 .apiHits .header-name{
 	display:inline;
